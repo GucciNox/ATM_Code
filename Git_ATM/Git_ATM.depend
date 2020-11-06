@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604639317 source:e:\programming stuff\git_atm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
